@@ -10,3 +10,4 @@ More links to study GitHub:
 + https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources
 + https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github
 + https://docs.github.com/en/actions/automating-builds-and-tests/about-continuous-integration
++ https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration

@@ -7,6 +7,7 @@ TODO:
 
 See also
 
+- https://docs.github.com/en/get-started/start-your-journey/hello-world
 - https://github.com/skills/introduction-to-github
 - https://skills.github.com/
 - https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources

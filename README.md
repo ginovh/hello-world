@@ -1,10 +1,13 @@
 # hello-world
 Github quickstart
 
-Just trying the Github Quickstart tutorial.
+TODO:
 
-More links to study GitHub:
- 
+- [ ] Merge all README files on workstation to on readme.md with sub folders
+- [ ] experiment with direct git push vs pull request
+
+See also
+
 + https://github.com/skills/introduction-to-github
 + https://skills.github.com/
 + https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources
